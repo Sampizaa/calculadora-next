@@ -27,7 +27,7 @@ A aplicação está dividida da seguinte forma:
 
 ## Captura de Tela
 
-![Interface da Calculadora](./public/img.jpg)
+![Interface da Calculadora](calculadora/public/img.jpg)
 
 ## Como Rodar Localmente
 
